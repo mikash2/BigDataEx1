@@ -25,4 +25,8 @@ ______________________________
 Exercise 3
 Q1. Is your change in the mapper or in the reducer?
 Answer - In the reducer
+MapReduce output- 
+the     74369
+and     42768
+of      34588
 ______________________________
