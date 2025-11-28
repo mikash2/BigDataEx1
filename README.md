@@ -29,4 +29,9 @@ MapReduce output-
 the     74369
 and     42768
 of      34588
+<img width="737" height="74" alt="image" src="https://github.com/user-attachments/assets/4ef14d14-ebbd-4879-b70c-a9f4a2ffb7ea" />
+
 ______________________________
+
+Mika Shahar 207814070
+Roni Kenigsberg 207106931
